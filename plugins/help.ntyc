@@ -1,0 +1,8 @@
+-a Muestra el numero de version del programa
+-b [url] guarda en un fichero el sitio de donde se tendra que descargar la informacion
+-c [plugin] descarga el archivo .ntyc del plugin en cuestion
+-d [plugin] descarga y extrae el plugin .ntyc 
+-e [plugin] [.exe name] descarga,extrae el plugin .ntyc y lo ejecuta 
+-f actualiza el nucleo NettyCore.cs
+-g establece una variable de entorno (experimental)
+-h muestra informacion
