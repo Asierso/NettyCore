@@ -1,0 +1,1 @@
+EJECUTAR: csc build.cs && build.exe
