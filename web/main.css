@@ -1,0 +1,52 @@
+body
+{
+    font-family: Century Gothic;
+    font-size:1.4rem;
+    margin:0;
+    background-image:url("icon/bg.png");
+    background-size: 1600px;
+}
+.heads
+{
+    text-align: center;
+    padding: 20px;
+    width:100%;
+    background-color: rgb(12, 12, 12);
+    float:left;
+    
+}
+
+.downloadbtn
+{
+    display:flex;
+    text-align: center;
+    padding:10px;
+    background-color: rgb(31, 31, 31);
+    width:350px;
+    height:75px;
+    float:left;
+    margin-top:150px;
+    margin-left:515px;
+    
+}
+.img
+{
+    padding :0px;
+    width:50px;
+    height:50px;
+    margin-left:23px;
+    margin-top:12px;
+}
+.ver
+{
+    margin-left:15px;
+}
+.img2
+{
+    margin-left:20px;
+}
+.ttl
+{
+    display: flex;
+    margin-left:505px;
+}
