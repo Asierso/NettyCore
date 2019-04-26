@@ -61,8 +61,8 @@ namespace build
                        plug.Write("{\"EnableCount\":\"true\",\"AutoCopy\":\"false\"}");
                        plug.Close();
 
-                       StreamWriter payl = new StreamWriter("Start.bat");
-                       payl.Write("echo off && cls && Code/main.exe");
+                       StreamWriter payl = new StreamWriter("RunAPI.bat");
+                       payl.Write("cd Code && main.exe");
                        payl.Close();
 
                        File.Create("error.log");
